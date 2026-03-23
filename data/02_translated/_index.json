@@ -16,9 +16,17 @@
       "chapters_en": 116,
       "chapters_aligned": 25,
       "coverage": "21.6%"
+    },
+    "lawrence:practice": {
+      "file": "pt/lawrence\\practice.json",
+      "markdown": "pt/lawrence\\practice.md",
+      "status": "complete",
+      "chapters_en": 21,
+      "chapters_aligned": 0,
+      "coverage": "0.0%"
     }
   },
   "generated_at": "2026-03-22",
   "language": "pt",
-  "total_works": 2
+  "total_works": 3
 }

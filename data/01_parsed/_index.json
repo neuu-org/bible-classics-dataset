@@ -14,8 +14,15 @@
       "chapters": 125,
       "paragraphs": 796,
       "notes": 55
+    },
+    "lawrence:practice": {
+      "file": "en/lawrence/practice.json",
+      "title": "The Practice of the Presence of God: The Best Rule of Holy Life",
+      "chapters": 24,
+      "paragraphs": 177,
+      "notes": 0
     }
   },
   "generated_at": "2026-03-22",
-  "total_works": 2
+  "total_works": 3
 }

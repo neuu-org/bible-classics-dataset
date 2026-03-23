@@ -323,6 +323,14 @@ def main():
             "author_pt": "Tomás de Kempis",
             "status": "partial",
             "section": "book_1"
+        },
+        "lawrence:practice": {
+            "parsed_path": DATA / "01_parsed" / "en" / "lawrence" / "practice.json",
+            "md_path": DATA / "02_translated" / "pt" / "lawrence" / "practice.md",
+            "out_path": DATA / "02_translated" / "pt" / "lawrence" / "practice.json",
+            "title_pt": "A Prática da Presença de Deus",
+            "author_pt": "Irmão Lourenço",
+            "status": "complete"
         }
     }
 

@@ -1,0 +1,18 @@
+{
+  "canonical_id": "lawrence:practice",
+  "source_path": "e:/ccel-paragraphs/ccel/l/lawrence/",
+  "source_file": "practice.xml",
+  "sha256": "05149b19c169d3f148add4a75f90a84fce96a75ba776b919f8c4fc59d78b3c6d",
+  "all_files": {
+    "authInfo.xml": {
+      "size": 1133,
+      "sha256": "135c6b8699f57f8ad157c8430ec5c8b3624b7074b062a4bf7d000f5b57fefad8"
+    },
+    "practice.xml": {
+      "size": 88898,
+      "sha256": "05149b19c169d3f148add4a75f90a84fce96a75ba776b919f8c4fc59d78b3c6d"
+    }
+  },
+  "parsed_at": "2026-03-23",
+  "parser": "parse_thml.py v1.1"
+}
