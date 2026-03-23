@@ -66,10 +66,28 @@
         "letters": 15,
         "paragraphs": 187
       }
+    },
+    "anselm:meditations": {
+      "title_en": "St. Anselm's Book of Meditations and Prayers",
+      "title_pt": "Meditações e Orações de Santo Anselmo",
+      "author_en": "Saint Anselm",
+      "author_pt": "Santo Anselmo",
+      "author_dates": "1033-1109",
+      "work_date": "c.1070-1109",
+      "ccel_id": "/ccel/anselm/meditations.html",
+      "status": "complete",
+      "layers": ["00_raw", "01_parsed", "02_translated"],
+      "stats": {
+        "meditations": 21,
+        "chapters": 24,
+        "paragraphs": 316,
+        "notes": 11
+      }
     }
   },
-  "total_works": 3,
-  "total_works_complete": 2,
+  "total_works": 4,
+  "total_works_complete": 3,
   "created_at": "2026-03-22",
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-23",
+  "note_anselm": "Translated using 4 parallel agents for speed, then merged and reviewed"
 }

@@ -1,0 +1,8 @@
+{
+  "canonical_id": "anselm:meditations",
+  "source_path": "e:/ccel-paragraphs/ccel/a/anselm/",
+  "source_file": "meditations.xml",
+  "sha256": "a1d09e6e417c2db88dd7c20b1297dd0ef2e1c89db0c8b518b7158acee8971585",
+  "parsed_at": "2026-03-23",
+  "parser": "parse_thml.py v1.1"
+}
