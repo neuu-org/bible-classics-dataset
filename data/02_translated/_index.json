@@ -1,0 +1,24 @@
+{
+  "layer": "02_translated",
+  "works": {
+    "athanasius:incarnation": {
+      "file": "pt/athanasius\\incarnation.json",
+      "markdown": "pt/athanasius\\incarnation.md",
+      "status": "complete",
+      "chapters_en": 9,
+      "chapters_aligned": 9,
+      "coverage": "100.0%"
+    },
+    "kempis:imitation": {
+      "file": "pt/kempis\\imitation_book1.json",
+      "markdown": "pt/kempis\\imitation_book1.md",
+      "status": "partial",
+      "chapters_en": 116,
+      "chapters_aligned": 25,
+      "coverage": "21.6%"
+    }
+  },
+  "generated_at": "2026-03-22",
+  "language": "pt",
+  "total_works": 2
+}

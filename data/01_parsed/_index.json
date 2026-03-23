@@ -1,0 +1,21 @@
+{
+  "layer": "01_parsed",
+  "works": {
+    "athanasius:incarnation": {
+      "file": "en/athanasius/incarnation.json",
+      "title": "On the Incarnation of the Word",
+      "chapters": 11,
+      "paragraphs": 92,
+      "notes": 71
+    },
+    "kempis:imitation": {
+      "file": "en/kempis/imitation.json",
+      "title": "The Imitation of Christ",
+      "chapters": 125,
+      "paragraphs": 796,
+      "notes": 55
+    }
+  },
+  "generated_at": "2026-03-22",
+  "total_works": 2
+}

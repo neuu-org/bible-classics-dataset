@@ -1,0 +1,26 @@
+{
+  "dataset": "bible-classics-dataset",
+  "version": "1.0.0",
+  "sources": {
+    "athanasius:incarnation": {
+      "source_path": "e:/ccel-paragraphs/ccel/a/athanasius/",
+      "source_file": "incarnation.xml",
+      "sha256": "fad6e5d0adf77ccc16f8dd66d4beb55d91182384182a2d8334eedf1dfdb79672",
+      "file_size_bytes": 156660,
+      "format": "ThML XML",
+      "rights": "Public Domain",
+      "ccel_url": "https://www.ccel.org/ccel/athanasius/incarnation.html"
+    },
+    "kempis:imitation": {
+      "source_path": "e:/ccel-paragraphs/ccel/k/kempis/",
+      "source_file": "imitation.xml",
+      "sha256": "8492aaa26bac887bcac1a9052459348b8f0e29ef44f77ad4859dd759aabb8598",
+      "file_size_bytes": 438798,
+      "format": "ThML XML",
+      "rights": "Public Domain",
+      "ccel_url": "https://www.ccel.org/ccel/kempis/imitation.html"
+    }
+  },
+  "generated_at": "2026-03-22",
+  "note": "Raw CCEL XML files are NOT included in this dataset. Source paths reference the ccel-paragraphs archive."
+}

@@ -1,0 +1,26 @@
+{
+  "canonical_id": "athanasius:incarnation",
+  "source_path": "e:/ccel-paragraphs/ccel/a/athanasius/",
+  "source_file": "incarnation.xml",
+  "sha256": "fad6e5d0adf77ccc16f8dd66d4beb55d91182384182a2d8334eedf1dfdb79672",
+  "all_files": {
+    "authInfo.xml": {
+      "size": 3594,
+      "sha256": "d908b84daa2b191cf8de863957735c0f5a0553bfecd26efd5e6c352f26deabf5"
+    },
+    "incarnation.xml": {
+      "size": 156660,
+      "sha256": "fad6e5d0adf77ccc16f8dd66d4beb55d91182384182a2d8334eedf1dfdb79672"
+    },
+    "paradise1.xml": {
+      "size": 113969,
+      "sha256": "4c80994a8b73753e6c4c9b150fa585e1954fa68995e5635fb231cbae9b28a4c6"
+    },
+    "paradise2.xml": {
+      "size": 88651,
+      "sha256": "3eb93c56099437108bab8472ffe748add71c4f567d9d0b5e1f88b1ca70b59611"
+    }
+  },
+  "parsed_at": "2026-03-22",
+  "parser": "parse_thml.py v1.0"
+}

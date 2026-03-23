@@ -1,0 +1,30 @@
+{
+  "canonical_id": "kempis:imitation",
+  "source_path": "e:/ccel-paragraphs/ccel/k/kempis/",
+  "source_file": "imitation.xml",
+  "sha256": "8492aaa26bac887bcac1a9052459348b8f0e29ef44f77ad4859dd759aabb8598",
+  "all_files": {
+    "authInfo.xml": {
+      "size": 2447,
+      "sha256": "1b2df74c48cfa428d3bf195e21d149205913dab49e7fae81df1737b339d8ff06"
+    },
+    "founders.xml": {
+      "size": 584846,
+      "sha256": "2e4b5c18bf63e94aa115dca7acb3994507163897d4255479beed7a09f6804273"
+    },
+    "imitation.xml": {
+      "size": 438798,
+      "sha256": "8492aaa26bac887bcac1a9052459348b8f0e29ef44f77ad4859dd759aabb8598"
+    },
+    "spimitation.xml": {
+      "size": 87392,
+      "sha256": "8fa476247a445db1ba89d398e228d7c9551996e29c85def46e4b6131aed38441"
+    },
+    "sp_imitation.xml": {
+      "size": 88127,
+      "sha256": "2dbadbf131dc0f762918e665b1352e3230deb930b07fd5c3a177b461cc7f5829"
+    }
+  },
+  "parsed_at": "2026-03-22",
+  "parser": "parse_thml.py v1.1 (div2 support)"
+}
